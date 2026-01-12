@@ -1,2 +1,2 @@
-Study material + placement
+Study material + placement resources
 
